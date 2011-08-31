@@ -1,0 +1,16 @@
+{
+  "author": "",
+  "name": "bundler",
+  "version": "0.0.0",
+  "bin": {
+    "assemble": "./bin/bundle.js"
+  },
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": "~v0.4.10"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
