@@ -11,6 +11,9 @@
   "engines": {
     "node": "~v0.4.10"
   },
-  "dependencies": {},
+  "dependencies": {
+    "semver": ">=0.0.1",
+    "minimal-test": ">=0.0.1"
+  },
   "devDependencies": {}
 }
